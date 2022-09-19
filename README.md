@@ -12,3 +12,5 @@ Este projeto prático foi concebido com o objetivo de colocar em prática todos 
 É um layout simples que realiza operações básicas de matemática e retorna o resultado, semi-responsiva (o layout suporta até a dimensão de um tablet, em resolução de smartphone começa a quebrar, mas será corrigida).
 
 ![Calculadora React](https://user-images.githubusercontent.com/70165034/191067128-0a564305-9622-4cb3-931b-55c1c5491f29.png)
+
+[Certificado Dio - Criando Uma Calculadora Com React.pdf](https://github.com/JuanSsilva07/calculadora-react/files/9600770/Certificado.Dio.-.Criando.Uma.Calculadora.Com.React.pdf)
