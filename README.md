@@ -13,4 +13,4 @@ Este projeto prático foi concebido com o objetivo de colocar em prática todos 
 
 ![Calculadora React](https://user-images.githubusercontent.com/70165034/191067128-0a564305-9622-4cb3-931b-55c1c5491f29.png)
 
-[Certificado Dio - Criando Uma Calculadora Com React.pdf](https://github.com/JuanSsilva07/calculadora-react/files/9600770/Certificado.Dio.-.Criando.Uma.Calculadora.Com.React.pdf)
+![Certificado Calculadora React](https://user-images.githubusercontent.com/70165034/191068237-384711d9-ba6b-45c8-b252-f2c72a48e26c.png)
